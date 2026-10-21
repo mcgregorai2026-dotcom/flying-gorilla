@@ -1,0 +1,46 @@
+{
+  "name": "Flying Gorilla",
+  "short_name": "Flying Gorilla",
+  "description": "Jet-pack gorilla platformer: 6 worlds, bosses, co-op. No ads, plays offline.",
+  "id": "/flying-gorilla/",
+  "start_url": "/flying-gorilla/index.html",
+  "scope": "/flying-gorilla/",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone"
+  ],
+  "orientation": "landscape",
+  "theme_color": "#1d6b3a",
+  "background_color": "#1d6b3a",
+  "categories": [
+    "games",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
