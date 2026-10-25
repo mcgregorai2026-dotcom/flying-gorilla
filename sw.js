@@ -1,6 +1,6 @@
 // Flying Gorilla service worker. The game page is NETWORK-FIRST (a new version arrives on the next open when online;
 // the cached copy is used offline). Icons/manifest: cache, refreshed in the background. Old caches are removed on activate.
-const CACHE = 'flying-gorilla-e45637152b';
+const CACHE = 'flying-gorilla-bc3b6943ef';
 const PRECACHE = ["./", "index.html", "manifest.webmanifest", "favicon.ico", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-192.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/icon-32.png"];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(PRECACHE.map(u => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting())); });
 self.addEventListener('activate', e => { e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k.startsWith('flying-gorilla-') && k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())); });
