@@ -8,6 +8,8 @@ A jet-pack gorilla platformer (6 worlds, 6 bosses, co-op). Single-file game (ind
 - In a normal browser tab it plays in portrait or landscape and handles rotation.
 - Works offline after the first visit. New versions load automatically next time you open it online (the page is network-first).
 
+What's new in v15: Easier jumping and flying on touch screens. No more double-tap: just lift your thumb off the MOVE side and press it again (within about a second) to JUMP. With a jet pack, keep holding after that press to fly while you steer; let go to stop. Your first press after a pause always just walks, so starting to walk never makes you jump. The MOVE circle, How to Play and the first tutorial sign explain it.
+
 What's new in v14: Longer levels! Every regular level is now about twice as long, with new set pieces (moving platforms, crystal caves, climbs, geysers, ice slides, airships, laser halls, bonus rooms) and extra checkpoints along the way. Every level can still be beaten with the jet packs you find, and there are no timers. Shop prices went up (early items are affordable in World 1, the top packs take saving across many levels); everything you already bought is kept. New in Settings (Main Menu and pause): Controls lets you put the MOVE stick on the LEFT and the buttons on the RIGHT. Double-tap the MOVE side to JUMP before you have a jet pack, or double-tap and hold to fly once you do. The world map got a makeover with a framed title, glossy level pads, a sunny sky, sparkling sea, floating motes and big welcome signs.
 
 What's new in v13: A rebuilt crashed spaceship in Level 1. The flying saucer now lies tilted and half-buried in a smoking crater (cracked glass dome, flickering lights, sparks, glowing goo). Inside is one simple path through 4 rooms: punch open the jammed airlock, wake Pip in the dark hallway, ground-pound 3 glowing buttons in the power room, then smash the glass capsule to find your jet pack. A goal line at the top always says what to do next, Pip points the way and glowing arrows on the floor lead on. The camera is steadier, speech bubbles stay clear of the ape and the buttons, and the escape is a calm jet-hop up a short shaft (no timer) out into the sunrise. The intro movie's saucer matches the crash.
@@ -18,4 +20,4 @@ What's new in v11: Jet pack progression. The starting Classic pack is now a shor
 
 What's new in v10: Mango's Jet Shop. Spend the coins you collect on 12 jet pack styles, upgrades (Banana Magnet, Coin Magnet, Bigger Fuel Tank, Jet Recharge, Extra Heart) and power-ups (Shield, Super Punch, Double Coins, Mega Magnet). Old saves keep their coins.
 
-Cache version: bc3b6943ef
+Cache version: 4f7a34882b
