@@ -8,6 +8,8 @@ A jet-pack gorilla platformer (6 worlds, 6 bosses, co-op). Single-file game (ind
 - In a normal browser tab it plays in portrait or landscape and handles rotation.
 - Works offline after the first visit. New versions load automatically next time you open it online (the page is network-first).
 
+What's new in v18: Big polish pass! JET and POUND buttons swapped places, bonus rooms got themed walls, bunting and a ceiling (no more flying out into empty sky), Level 1 has a moon, stars, fireflies and flowers, checkpoint flags show a banana badge, and lots of little glitches are fixed (floating scenery, snow blobs, stray ferns in boss arenas, a bonus-room hiccup after falling, the menu signpost hiding behind the title).
+
 What's new in v17: Double-tap is back! On touch screens, double-tap the MOVE side to JUMP. With a jet pack, double-tap and hold MOVE to fly while you steer; let go to stop. (This replaces the v15 lift-and-press-again rule.)
 
 What's new in v16: The waterfall on Jungle Island now pours off a real rocky cliff! The water spills over a mossy rock lip at the top, tumbles down the cliff face, and splashes into a pool with foam and soft mist before flowing into the river.
@@ -24,4 +26,4 @@ What's new in v11: Jet pack progression. The starting Classic pack is now a shor
 
 What's new in v10: Mango's Jet Shop. Spend the coins you collect on 12 jet pack styles, upgrades (Banana Magnet, Coin Magnet, Bigger Fuel Tank, Jet Recharge, Extra Heart) and power-ups (Shield, Super Punch, Double Coins, Mega Magnet). Old saves keep their coins.
 
-Cache version: be6aebc347
+Cache version: e022959dd1
