@@ -8,6 +8,8 @@ A jet-pack gorilla platformer (6 worlds, 6 bosses, co-op). Single-file game (ind
 - In a normal browser tab it plays in portrait or landscape and handles rotation.
 - Works offline after the first visit. New versions load automatically next time you open it online (the page is network-first).
 
+What's new in v21: the bonus rooms are now huge, multi-screen adventures with a different challenge in every world: Coin Rush in the jungle, a Minecart Ride in the mines, Geyser Hop in the volcano, an Ice Slide, a bouncy Cloud Hop in the storm skies and Smash It crate targets in the fortress. Keep grabbing goodies to grow the COMBO meter (every 10 gives bonus bananas), and every room ends in a giant TREASURE pile. No timers, no pits, just fun.
+
 What's new in v20: every level now ends with a mini-boss fight in its own arena (a checkpoint right before it, a health bar, wind-up warnings, a faster second half, fewer hits needed on Easy). Each world has three mini-bosses made from its own baddies. Brighter, bolder colors for the new enemies, and the buttons never cover the gorilla in landscape.
 
 What's new in v19: More bad guys! Every world has 2 brand-new enemies: Hop Frog and Swoop Toucan (Jungle), Gem Beetle and Lantern Bug (Mine Caves), Magma Toad and Ash Hawk (Volcano), Yeti Cub and Snow Owl (Frozen), Snappy Crab and Sky Gull (Skyport), Spring Bot and Hawk Bot (Mecha Fortress). Hoppers squat and flash before they leap, divers shiver and show "!" before they swoop, and shelled walkers wear a helmet. Levels are busier on every difficulty (Easy still gentle), defeated baddies burst in a cartoon puff of clouds and stars, a "NEW!" call-out names each new enemy the first time you see it, and Rumble the rhino now smashes crates and swooping birds.
@@ -30,4 +32,4 @@ What's new in v11: Jet pack progression. The starting Classic pack is now a shor
 
 What's new in v10: Mango's Jet Shop. Spend the coins you collect on 12 jet pack styles, upgrades (Banana Magnet, Coin Magnet, Bigger Fuel Tank, Jet Recharge, Extra Heart) and power-ups (Shield, Super Punch, Double Coins, Mega Magnet). Old saves keep their coins.
 
-Cache version: 32248bffbd
+Cache version: b6760426c8
